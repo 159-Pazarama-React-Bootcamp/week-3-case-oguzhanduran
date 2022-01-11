@@ -1,0 +1,15 @@
+.homePage{
+    text-align: center;
+}
+
+.homePageBackground{
+    position: absolute;
+    Top: 130px;
+    Left: 270px;
+    background: #E2EEF5;
+}
+
+.homePagePhoto{
+width: 1000px;
+height: 575px;
+}
